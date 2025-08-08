@@ -9,8 +9,7 @@ tags:
 * abbreviation: none
 * No longer active
 
-## Discord:
-* https://discord.gg/fcecZ7Qd8z
+## [Discord](https://discord.gg/fcecZ7Qd8z)
 
 ## Founding information
 * Founding date: 23 May 2023
@@ -19,7 +18,7 @@ tags:
   * Byrobuff
 * Founding Story:
 > The Hive branched of off another group called Pyromaniac Fireflies. It started with a Pyromaniac Fireflies base called "The Hive" or also considered as Hive 1. But somehow the base got griefed quickly. So Lerpietong and Byrobuff and some other members of Hive 1 joined forced to form the "The Hive" group. They did this cause they were fed up with the other owners of Pyromaniac Fireflies. They later made [Hive 2](https://www.youtube.com/watch?v=sFIcEpTGAiU) and Hive Halloween
-
+>
 
 **Screenshot of Unfinished Hive Halloween**
 

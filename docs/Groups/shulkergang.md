@@ -5,11 +5,9 @@ tags:
 ---
 
 ## Identity
-* Full name: Shulkergang
 * Abbreviation: SG
 
-## Discord
-* https://discord.gg/eATbWpG2RA
+## [Discord](https://discord.gg/eATbWpG2RA)
 
 ## Founding information
 * Founding date: 6 October 2022
