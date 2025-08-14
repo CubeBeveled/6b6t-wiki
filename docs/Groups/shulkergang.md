@@ -2,7 +2,7 @@
 title: 'Shulkergang'
 tags:
   - Clan
-image: ../../static/img/groups/shulkergang/logo.png
+image: /img/groups/shulkergang/logo.png
 description: A 6b6t clan.
 ---
 
