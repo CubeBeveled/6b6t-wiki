@@ -2,7 +2,6 @@
 title: 'Player template'
 description: The template for player pages. This description will show up in discord embeds and tag pages
 tags:
-  - Getting started
   - Contributing
 ---
 

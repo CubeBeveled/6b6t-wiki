@@ -2,8 +2,6 @@
 sidebar_position: 1
 sidebar_label: 'Introduction'
 slug: /
-tags:
-  - Getting Started
 ---
 
 # Welcome to the 6b6t Wiki!

@@ -2,7 +2,7 @@
 title: 'Advik555'
 tags:
   - Player
-  - 6b6t
+  - Contributor
 ---
 
 ## Identity

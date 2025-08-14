@@ -2,7 +2,7 @@
 title: 'scarthebest1943'
 tags:
   - Player
-  - 6b6t
+  - Contributor
 ---
 
 ## Identity

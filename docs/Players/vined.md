@@ -2,8 +2,8 @@
 title: 'vined_'
 tags:
   - Player
-  - 6b6t
 ---
+
 ## Identity
 * Username: `vined_`
 * Mainly goes by: `vined`

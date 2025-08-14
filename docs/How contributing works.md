@@ -4,7 +4,6 @@ title: 'How contributing works'
 slug: /contributing
 tags:
   - Contributing
-  - Getting Started
 ---
 
 This website was built in such a way that creating a markdown file in the docs folder will make a new entry in the sidebar. Making a new folder makes a new dropdown in the sidebar and making a new markdown file in that folder makes an entry in that folder's dropdown. You can modify folders and files by cloning the [GitHub](https://github.com/Advik555wastaken/6b6twiki/) repository.

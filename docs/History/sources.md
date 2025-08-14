@@ -4,7 +4,6 @@ sidebar_label: 'Sources'
 title: 'Sources'
 tags:
   - History
-  - Sources
 ---
 
 [8b8t.me wiki - The 6b6t era](https://wiki.8b8t.me/index.php?title=History#:~:text=6b6t.org%20/%206b6t.co%20Era%20(March%202019%20to%20January%202021),-The%206b6t%20era)

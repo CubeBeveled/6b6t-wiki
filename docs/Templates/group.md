@@ -2,7 +2,6 @@
 title: 'Group template'
 description: The template for group/clan pages. This description will show up in discord embeds and tag pages
 tags:
-  - Getting started
   - Contributing
 ---
 
