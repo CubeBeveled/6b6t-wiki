@@ -1,9 +1,9 @@
-Groups:
+Group:
   label: 'Groups'
   permalink: '/groups'
   description: '6b6t groups'
 
-Clans:
+Clan:
   label: 'Clans'
   permalink: '/clans'
   description: '6b6t clans'
@@ -18,7 +18,7 @@ Contributing:
   permalink: '/contributing'
   description: 'Resources and instructions for contributing to the wiki'
 
-Players:
+Player:
   label: 'Players'
   permalink: '/players'
   description: 'Relevant players that did stuff'
@@ -27,5 +27,3 @@ History:
   label: 'History'
   permalink: '/history'
   description: 'Stuff about the history of 6b6t'
-
-

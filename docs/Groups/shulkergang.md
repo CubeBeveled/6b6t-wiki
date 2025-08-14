@@ -45,7 +45,7 @@ description: A 6b6t clan.
 - schmiddie (Founder)
 
 ### Leaders
-- [CapyKing10](../Players//capy.md)
+- [CapyKing10](../Players/capy.md)
 - [myniany](../Players/myniany.md)
 - [lil__perp](../Players/lilperp.md)
 - ByroBuff
@@ -91,12 +91,12 @@ description: A 6b6t clan.
 > Bd71legend after finding the base did not grief it or leak the cords and demanded his position of sg leader back.
 >This was provided to him but aodreal one of the other leaders managed to kick him which resulted in Protest, adr14n0, bd71legend  and some other crucial members of imps to grief the base on the 6th of December 2023.
 > This incident was the final blow in the history of shulkergang as after this grief the leaders started getting inactive resulting in the clan being dead.
-> Some members started moving to different servers like [alacity](../MCServers/alacity.md) and some joined donfuer 6b6t.
+> Some members started moving to different servers like alacity and some joined donfuer 6b6t.
 
 ## Resurrection
-> 2 months after bd71legend and the imperials griefed the main bases, [CapyKing10](../Players/capy.md) and [xiNxghtMar3ix](../Players/nxght.md) which are both leaders in Shulkergang on 6b6t and ToyotaT100 on [8b8t](../MCServers/8b8t.md) contacted the members and other leaders of the two groups about making a new group on [alacity](../MCServers/alacity.md) and set up a groupchat. In that groupchat they decided that they were gonna take element from each group and implement them into the new group.
+> 2 months after bd71legend and the imperials griefed the main bases, [CapyKing10](../Players/capy.md) and [xiNxghtMar3ix](../Players/nxght.md) which are both leaders in Shulkergang on 6b6t and ToyotaT100 on 8b8t contacted the members and other leaders of the two groups about making a new group on alacity and set up a groupchat. In that groupchat they decided that they were gonna take element from each group and implement them into the new group.
 
-> SG X TY was the first name of the group, the names were seperated (SG standing for shulkergang and TY for toyota). After aodrael suddenly deleted the discord a new one was made by [xiNxghtMar3ix](../Players/nxght.md) which was called TSG (Toyota Shulkergang). From then on the name stood and TSG went on to became one of the most know groups on [alacity](../MCServers/alacity.md). 
+> SG X TY was the first name of the group, the names were seperated (SG standing for shulkergang and TY for toyota). After aodrael suddenly deleted the discord a new one was made by [xiNxghtMar3ix](../Players/nxght.md) which was called TSG (Toyota Shulkergang). From then on the name stood and TSG went on to became one of the most know groups on alacity. 
 
 ## Gallery
 ![founders](../../static/img/groups/shulkergang/founders.png)
