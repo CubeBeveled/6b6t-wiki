@@ -2,21 +2,21 @@
 title: 'The Hive'
 tags:
   - Group
+image: ../../static/img/groups/the%20hive/logo.png
+description: A 6b6t group.
 ---
 
-## Identity
-* Full name: The Hive
-* abbreviation: none
-* No longer active
+![logo](../../static/img/groups/the%20hive/logo.png)
 
 ## [Discord](https://discord.gg/fcecZ7Qd8z)
 
 ## Founding information
 * Founding date: 23 May 2023
+* Inactive
 * Founded by: 
   * Lerpietong
   * Byrobuff
-* Founding Story:
+* Founding Story
 > The Hive branched of off another group called Pyromaniac Fireflies. It started with a Pyromaniac Fireflies base called "The Hive" or also considered as Hive 1. But somehow the base got griefed quickly. So Lerpietong and Byrobuff and some other members of Hive 1 joined forced to form the "The Hive" group. They did this cause they were fed up with the other owners of Pyromaniac Fireflies. They later made [Hive 2](https://www.youtube.com/watch?v=sFIcEpTGAiU) and Hive Halloween
 >
 
@@ -51,6 +51,3 @@ tags:
 - c1yd3i (builder)
 - [_aleseeq__](../Players/north.md) (builder)
 - Sharedlines (builder)
-
-## Logo / Banner:
-![logo](../../static/img/groups/the%20hive/logo.png)

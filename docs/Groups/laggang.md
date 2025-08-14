@@ -1,6 +1,6 @@
 ---
 title: "LagGang"
-description: Clan founded by TNT_Jesse in mid 2022
+description: 6b6t clan founded by TNT_Jesse in mid 2022
 tags:
   - Clan
 ---
@@ -66,3 +66,4 @@ In September 2023, LagGang officially shuts down with a message from TNT_Jesse, 
 - jajo341
 - lerpietong
 - LaggangOnTop (m00se)
+

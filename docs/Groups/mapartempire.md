@@ -1,5 +1,6 @@
 ---
 title: 'The Mapart Empire'
+description: A 6b6t group
 tags:
   - Group
 ---

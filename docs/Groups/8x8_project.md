@@ -2,6 +2,8 @@
 title: 'The 8x8 Project'
 tags:
   - Group
+description: A mapart group
+image: ../../static/img/groups/8x8_project/logo.png
 ---
 
 ![logo](../../static/img/groups/8x8_project/logo.png)
