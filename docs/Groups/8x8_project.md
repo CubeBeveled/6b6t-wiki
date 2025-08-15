@@ -25,4 +25,4 @@ image: /img/groups/8x8-project/logo.png
 ## Notable Members
 - Kyr0Zen (8x8 Trainee)
 
-## [Maparts](../maparts.md#maparts-made-by-groups#8x8-project)
+## [Maparts](../maparts.md#8x8-project)
