@@ -90,8 +90,8 @@ const config = {
     },
 
     metadata: [
-      //{ name: "google-site-verification", content: "zEcfz-ZXbEPKQObsyRa79zX2PJFDbBtPZetnpEc9NaU" },
-      { name: "google-site-verification", content: "Ti-GH4giHtXcFWkyA18xjjvbEMTsQRY4dTpfzx3NUDQ" }
+      { name: "google-site-verification", content: "Ti-GH4giHtXcFWkyA18xjjvbEMTsQRY4dTpfzx3NUDQ" },
+      { name: "google-site-verification", content: "zEcfz-ZXbEPKQObsyRa79zX2PJFDbBtPZetnpEc9NaU" }
     ],
 
     // Replace with your project's social card
