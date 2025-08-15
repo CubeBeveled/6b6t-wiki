@@ -74,7 +74,7 @@ function getMapartElements(path, author, dimensions, name) {
   const dimTextStyles = JSON.stringify(styles["dim-text"]);
 
   return `
-  <a style={${JSON.stringify(styles.mapartContainer)}} href="${path}">
+  <a style={${JSON.stringify(styles.mapartContainer)}} href="${path}" target="_blank">
     <img style={${JSON.stringify(styles.img)}} src="${path}"/>
     <center>
       ${dimensions
