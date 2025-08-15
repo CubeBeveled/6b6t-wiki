@@ -7,6 +7,7 @@ const mapSize = { width: 800, height: 800 };
 const metadata = `---
 title: "Maparts gallery"
 description: The mapart gallery of the wiki
+sidebar_position: 2
 ---\n
 `;
 
