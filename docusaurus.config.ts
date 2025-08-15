@@ -91,7 +91,6 @@ const config = {
 
     metadata: [
       //{ name: "google-site-verification", content: "zEcfz-ZXbEPKQObsyRa79zX2PJFDbBtPZetnpEc9NaU" },
-      //{ name: "google-site-verification", content: "3pfuaKGpuUOYiuQ74Uj34hLx8i5W32MM6C-deolbYUs" },
       { name: "google-site-verification", content: "Ti-GH4giHtXcFWkyA18xjjvbEMTsQRY4dTpfzx3NUDQ" }
     ],
 
