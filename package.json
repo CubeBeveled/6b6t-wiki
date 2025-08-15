@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "prebuild": "node src/scripts/playersindex.js && node src/scripts/mapartsindex.js",
+    "prebuild": "node src/scripts/playersindex.js && node src/scripts/mapartsindex.ts",
     "build": "docusaurus build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
