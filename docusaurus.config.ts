@@ -50,7 +50,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`;
+            return `https://github.com/CubeBeveled/6b6t-wiki/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -103,7 +103,7 @@ const config = {
       },
       items: [
         {
-          href: 'https://github.com/Advik555wastaken/6b6twiki/',
+          href: 'https://github.com/CubeBeveled/6b6t-wiki/',
           label: 'GitHub',
           position: 'right',
         },
@@ -121,7 +121,7 @@ const config = {
             },
             {
               label: 'Credits',
-              to: 'https://github.com/Advik555wastaken/6b6twiki/graphs/contributors',
+              to: 'https://github.com/CubeBeveled/6b6t-wiki/graphs/contributors',
             }
           ],
         },
