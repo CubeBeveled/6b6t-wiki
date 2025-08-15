@@ -8,7 +8,12 @@ const metadata = `---
 title: "Maparts gallery"
 description: The mapart gallery of the wiki
 sidebar_position: 2
----\n
+---
+:::warning
+
+Some of these images may not be suitable for immature audiences.
+
+:::\n
 `;
 
 // To add gradient
