@@ -32,8 +32,10 @@ const styles = {
 };
 
 //    { mapart type } v          v { mapart author }
-const maparts: Map<string, Map<string, string[]>> = new Map()
+//const maparts: Map<string, Map<string, string[]>> = new Map()
 //                                       ^ maparts (html elements)
+
+const maparts = new Map()
 
 const unsafeCharacters = new Set(["<", ">", "'", '"', "&"]);
 function isUnsafe(text) {
