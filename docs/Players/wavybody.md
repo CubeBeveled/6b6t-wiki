@@ -16,7 +16,8 @@ tags:
 March 2024
 
 ## Accomplishments
-* Leader of [Saviors, Eclipse, Tesseract (second one)](../Groups/saviors.md)
+* Leader of Eclipse, Tesseract (second one)
+* Former leader of Saviors (nuked the server)
 
 ## Skin
 ![skin](https://s.namemc.com/3d/skin/body.png?id=83971e772310dfc2&model=classic&theta=30&phi=21&time=90&width=100&height=200)
