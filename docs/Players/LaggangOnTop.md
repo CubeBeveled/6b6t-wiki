@@ -4,7 +4,7 @@ tags:
   - Player
 ---
 
-## Identity:
+## Identity
 - More commonly known as m00se or m00sehead
 - Old Account: m00sehead_9701
 - Join date: June 6th 2022
