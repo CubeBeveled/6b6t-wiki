@@ -25,3 +25,6 @@ tags:
 
 
 m00se has not been a member of any clans since 2023, preferring to focus on 6b6t times.
+
+## Skin
+[skin](https://s.namemc.com/3d/skin/body.png?id=0fe8372b4e327eee&model=classic&theta=30&phi=21&time=90&width=200&height=100)
