@@ -17,7 +17,7 @@ tags:
 ## Minecraft Account List
 * Advik123 (cracked account)
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (current premium account)
-* [_Advik555](https://namemc.com/Advik555) (old premium account) (no access)
+* [Advik555](https://namemc.com/Advik555) (old premium account) (no access)
 * youknowmyalt (an old main)
 * many more accounts (in the pastebin below, some with .'s in them)
 
