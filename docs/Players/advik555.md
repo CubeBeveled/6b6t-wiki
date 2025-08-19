@@ -20,8 +20,6 @@ tags:
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (current premium account)
 * [Advik555](https://namemc.com/Advik555) (old premium account) (no access)
 * youknowmyalt (an old main)
-* many more accounts (in the pastebin below, some with .'s in them)
-
 * this user has an extensive account list that can be viewed [here](https://pastebin.com/2MAHm4yA)
 
 ## Accomplishments
@@ -46,15 +44,14 @@ tags:
 - Cumgang (a community base group) (*died*)
 - Imperials 6b6t (for a short amount of time) (*Became inactive in group*)
 - Donfuer 6b6t (in all 3 diffrent leadership terms) (*died 3 times*)
-
 - Many, many other small groups most of which are gone
 
 ## Clans insided
-- afk (anarchy free kits)
-- tesseract/saviors (insided tesseract on main, then saviors twice on alts)
-- anti 555 (mudl)
-- inferno (griefed twice, surrendered/allied to/with 555)
-- melon clan
+- Anarchy Free Kits
+- Tesseract/Saviors (insided tesseract on main, then saviors twice on alts)
+- Anti 555 (mudl)
+- Inferno (griefed twice, surrendered/allied to/with 555)
+- Melon Clan
 - a5/111 (larped 555's name, insided, rebranded, went inactive,
 - 7th day/777 (made false accusations against 555/advik, griefed, nuked, rebranded, server deleted)
 - Neutral (neutral failed to inside 555, was exposed, griefed twice)
