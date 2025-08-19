@@ -8,7 +8,12 @@ const metadata = `---
 title: "Maparts gallery"
 description: The mapart gallery of the wiki
 sidebar_position: 2
----\n
+---
+:::warning
+
+Some of these images may not be suitable for immature audiences.
+
+:::\n
 `;
 
 // To add gradient
@@ -32,8 +37,10 @@ const styles = {
 };
 
 //    { mapart type } v          v { mapart author }
-const maparts: Map<string, Map<string, string[]>> = new Map()
+//const maparts: Map<string, Map<string, string[]>> = new Map()
 //                                       ^ maparts (html elements)
+
+const maparts = new Map()
 
 const unsafeCharacters = new Set(["<", ">", "'", '"', "&"]);
 function isUnsafe(text) {
@@ -67,7 +74,7 @@ function getMapartElements(path, author, dimensions, name) {
   const dimTextStyles = JSON.stringify(styles["dim-text"]);
 
   return `
-  <a style={${JSON.stringify(styles.mapartContainer)}} href="${path}">
+  <a style={${JSON.stringify(styles.mapartContainer)}} href="${path}" target="_blank">
     <img style={${JSON.stringify(styles.img)}} src="${path}"/>
     <center>
       ${dimensions
